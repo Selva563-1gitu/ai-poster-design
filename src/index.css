@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 14px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.confirm-button {
+  background-color: #28a745;
+}
+
+.confirm-button:hover {
+  background-color: #1e7e34;
+}
+
+.topic-box {
+  padding: 20px;
+  background-color: #fff3cd;
+  border: 2px solid #ffeeba;
+  border-radius: 10px;
+  margin-top: 20px;
+  animation: bounce-in 0.6s ease forwards;
+}
+
+.topic-box h3 {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.topic-box p {
+  margin: 4px 0;
+}
+
+.topic-box {
+  padding: 20px;
+  background-color: #fff3cd;
+  border: 2px solid #ffeeba;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+@keyframes bounce-in {
+  0% {
+    transform: scale(0);
+  }
+  60% {
+    transform: scale(1.1) rotate(5deg);
+  }
+  80% {
+    transform: scale(0.95) rotate(-3deg);
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+}
