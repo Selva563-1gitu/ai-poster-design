@@ -12,8 +12,7 @@ const TopicSelector = ({ teamName, assignedTopic }) => {
       >
         <h3>🎉 Team: {teamName}</h3>
         <p><strong>Title:</strong> {assignedTopic.title}</p>
-        <p><strong>Concept:</strong> {assignedTopic.concept}</p>
-        <p><strong>Design Idea:</strong> {assignedTopic.designIdea}</p>
+        
       </motion.div>
     </div>
   );
