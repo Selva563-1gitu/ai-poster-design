@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ai-poster-design/static/css/main.f15d7e0a.css",
-    "main.js": "/ai-poster-design/static/js/main.15219134.js",
+    "main.js": "/ai-poster-design/static/js/main.92dc4745.js",
     "static/js/453.a03d4f71.chunk.js": "/ai-poster-design/static/js/453.a03d4f71.chunk.js",
     "index.html": "/ai-poster-design/index.html",
     "main.f15d7e0a.css.map": "/ai-poster-design/static/css/main.f15d7e0a.css.map",
-    "main.15219134.js.map": "/ai-poster-design/static/js/main.15219134.js.map",
+    "main.92dc4745.js.map": "/ai-poster-design/static/js/main.92dc4745.js.map",
     "453.a03d4f71.chunk.js.map": "/ai-poster-design/static/js/453.a03d4f71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f15d7e0a.css",
-    "static/js/main.15219134.js"
+    "static/js/main.92dc4745.js"
   ]
 }
